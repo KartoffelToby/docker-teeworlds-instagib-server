@@ -1,0 +1,11 @@
+[53f0d1fc][server]: starting...
+[53f0d1fc][datafile]: loading. filename='maps/ctf3.map'
+[53f0d1fc][datafile]: allocsize=2440
+[53f0d1fc][datafile]: readsize=2192
+[53f0d1fc][datafile]: swaplen=2212
+[53f0d1fc][datafile]: item_size=1880
+[53f0d1fc][datafile]: loading done. datafile='maps/ctf3.map'
+[53f0d1fc][server]: maps/ctf3.map crc is a3739d41
+[53f0d1fc][net]: failed to bind socket with domain 2 and type 2 (98 'Address already in use')
+[53f0d1fc][net]: failed to bind socket with domain 10 and type 2 (98 'Address already in use')
+[53f0d1fc][server]: couldn't open socket. port 8303 might already be in use
